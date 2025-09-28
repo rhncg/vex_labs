@@ -41,7 +41,7 @@ int main() {
     // While loop example
     int count = 0;
     while (count < 5) {
-        std::cout << "While Loop Count: " << count << std::endl;
+        std::cout << "Count: " << count << std::endl;
         count++;
     }
 

@@ -31,8 +31,13 @@ int main() {
     int sum = add(10, 20);
     std::cout << "Sum: " << sum << std::endl; // Outputs: Sum: 30
     
-    // Lab 8: Create a function that takes two bool parameters and returns true only if both parameters are NOT true
-    // Call the function with different combinations of true and false and print the results
+    // Lab 8: Create the following functions
+
+    // 1: Create a function that accepts two boolean parameters. It should return false if both parameters are true, and true otherwise
+    
+
+    // 2: Create a function that accepts two integer parameters and returns their product
+
 
 
     return 0;
